@@ -1,3 +1,4 @@
 note2.txt 123
+stash 1
 note2.txt 456
 note2 stash 1
